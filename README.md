@@ -35,4 +35,4 @@ I build production-grade AI agent systems that automate real business processes.
 ## 💼 Case Study Portfolio 
 
      
-  [Gbireda.case-study](https://github.com/user-attachments/files/26485601/Gbireda.case-study.pdf)
+*  [Gbireda.case-study](https://github.com/user-attachments/files/26485601/Gbireda.case-study.pdf)
