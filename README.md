@@ -31,3 +31,7 @@ I build production-grade AI agent systems that automate real business processes.
 
 - 📧 gosa.dev99@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/gossaye-bireda-332906280)
+
+## Case Study Portfolio 
+
+ -  💼 [Case Study]([www.linkedin.com/in/gossaye-bireda-332906280](https://www.linkedin.com/in/gossaye-bireda-332906280/overlay/1775352791879/single-media-viewer/?profileId=ACoAAER6VlYBvGYNeS1l7PnMSEeLulgynagxK4Q))
